@@ -1,4 +1,10 @@
-### Hi there 👋
+# YABADUMBAS!
+
+### Me llamo Zento y estoy interesado sobre todo en el desarrollo de Apps
+
+Actualmente estoy tratando de empezar a trabajar como programador en Android Studio con Kotlin
+Me gustan los juegos de mesa y me gustaria llevar juegos de mesa a los moviles
+
 
 <!--
 **ZentoBernabeuPerez/ZentoBernabeuPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
