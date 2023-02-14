@@ -1,22 +1,10 @@
 # YABADUMBAS!
 
-### Me llamo Zento y estoy interesado sobre todo en el desarrollo de Apps
+### My name is Zento
 
-- Actualmente estoy tratando de empezar a trabajar como programador en Android Studio con Kotlin
-- Me gustan los juegos de mesa y me gustaria llevar juegos de mesa a los moviles
+- I´m learning Kotlin so I can develop Apps in Android Studio
+- I love table games and I would like to make apps based in table games
+- I have also experience in Python, Sql and Git
+- You can reach me here on GitHub or through e-mail, zento@elmandilnegro.es
+- I speak spanish, english, german and a bit of japanese
 
-
-<!--
-**ZentoBernabeuPerez/ZentoBernabeuPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
